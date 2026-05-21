@@ -1,5 +1,9 @@
 # Door Alert ESP-01S (ESP8266)
 
+<p align="center">
+  <img width="300" height="300" alt="ESP-01S Module" src="https://github.com/user-attachments/assets/462346bc-4dee-4415-a292-512cbb404307" />
+</p>
+
 A lightweight, ultra-low-power IoT door security system built with an ESP-01S (ESP8266). The system monitors the door status (Open/Closed) using a magnetic reed switch, logs battery voltage data to Blynk, sends instant notifications via Telegram, and immediately enters Deep Sleep mode to conserve power.
 
 ## Features
